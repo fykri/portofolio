@@ -1,0 +1,90 @@
+import {
+    SiJavascript,
+    SiTypescript,
+    SiReact,
+    SiNodedotjs,
+    SiExpress,
+    SiPostgresql,
+    SiMysql,
+    SiPrisma,
+    SiTailwindcss,
+    SiGit,
+    SiGithub,
+    SiVite,
+    SiPostman,
+} from 'react-icons/si';
+
+export const techStack = [
+    {
+        name: 'JavaScript',
+        category: 'Language',
+        icon: SiJavascript,
+        style: 'text-yellow-400',
+    },
+    {
+        name: 'React',
+        category: 'Frontend',
+        icon: SiReact,
+        style: 'text-cyan-400',
+    },
+    {
+        name: 'Node.js',
+        category: 'Backend',
+        icon: SiNodedotjs,
+        style: 'text-green-400',
+    },
+    {
+        name: 'Express.js',
+        category: 'Backend',
+        icon: SiExpress,
+        style: 'text-slate-300',
+    },
+    {
+        name: 'PostgreSQL',
+        category: 'Database',
+        icon: SiPostgresql,
+        style: 'text-blue-400',
+    },
+    {
+        name: 'MySQL',
+        category: 'Database',
+        icon: SiMysql,
+        style: 'text-orange-400',
+    },
+    {
+        name: 'Prisma',
+        category: 'ORM',
+        icon: SiPrisma,
+        style: 'text-indigo-400',
+    },
+    {
+        name: 'Tailwind CSS',
+        category: 'Styling',
+        icon: SiTailwindcss,
+        style: 'text-cyan-300',
+    },
+    {
+        name: 'Git',
+        category: 'Tools',
+        icon: SiGit,
+        style: 'text-orange-500',
+    },
+    {
+        name: 'GitHub',
+        category: 'Tools',
+        icon: SiGithub,
+        style: 'text-slate-200',
+    },
+    {
+        name: 'Vite',
+        category: 'Tools',
+        icon: SiVite,
+        style: 'text-violet-400',
+    },
+    {
+        name: 'Postman',
+        category: 'API Tools',
+        icon: SiPostman,
+        style: 'text-orange-400',
+    },
+];
