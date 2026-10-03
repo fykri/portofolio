@@ -126,7 +126,7 @@ const Contact = () => {
                             <div className="mt-8 space-y-3">
                                 {/* Email */}
                                 <a
-                                    href="mailto:emailkamu@gmail.com"
+                                    href="mailto:dzulfikriyunus@gmail.com"
                                     className="
                                     group
                                     flex
@@ -151,7 +151,7 @@ const Contact = () => {
                                         <div>
                                             <p className="text-[10px] uppercase tracking-wider text-slate-500">Email</p>
 
-                                            <p className="text-sm text-slate-300">emailkamu@gmail.com</p>
+                                            <p className="text-sm text-slate-300">dzulfikriyunus@gmail.com</p>
                                         </div>
                                     </div>
 
@@ -169,7 +169,7 @@ const Contact = () => {
 
                                 {/* GitHub */}
                                 <a
-                                    href="https://github.com/username"
+                                    href="https://github.com/fykri"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="
@@ -198,7 +198,7 @@ const Contact = () => {
                                                 GitHub
                                             </p>
 
-                                            <p className="text-sm text-slate-300">@username</p>
+                                            <p className="text-sm text-slate-300">@fykri</p>
                                         </div>
                                     </div>
 
@@ -207,7 +207,7 @@ const Contact = () => {
 
                                 {/* LinkedIn */}
                                 <a
-                                    href="https://linkedin.com/in/username"
+                                    href="https://www.linkedin.com/in/dzul-fikri-yunus-132a71295/"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="
